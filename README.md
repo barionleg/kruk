@@ -1,3 +1,14 @@
+# gh-pages branch or own webb
+
+Программа для набора песнопений знаменной нотацией.
+Приложение находится в стадии разработки.
+
+Пример работы:
+<!--![Пример работы](https://image.ibb.co/kr3jNe/kruk.gif)-->
+
+![Пример работы2](https://raw.githubusercontent.com/barionleg/kruk/refs/heads/master/public/kruk.gif)
+
+
 # That turtorial works with main branch, mm. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
