@@ -1,5 +1,7 @@
 # gh-pages branch or own webb
 
+[online dEmo](https://barionleg.github.io/kruk/index.html )
+
 Программа для набора песнопений знаменной нотацией.
 Приложение находится в стадии разработки.
 
